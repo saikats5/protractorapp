@@ -16,3 +16,5 @@ element, by, browser
 element(by.css(#search))
 element(by.model('name'))
 
+app.po.ts // po --> page object
+
